@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash R G
-- 👀 I’m interested in java development and application development
+- 👀 I’m interested in java development and application development in flutter
 - 🌱 I’m currently learning final year BCA at Government First Grade College Shimoga
 - 📫 How to reach me : rgakash536@gmail.com
 - 😄 Pronouns: ...He
